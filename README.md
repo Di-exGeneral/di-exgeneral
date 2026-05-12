@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Di-exGeneral/di-exgeneral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tlotliso Ledwaba
 
-Here are some ideas to get you started:
+ICT Diploma student at Sol Plaatje University, Kimberley. Building towards a career in DevOps engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently working on
+
+A structured 9-phase DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Kubernetes, AWS, and monitoring. All progress is public.
+
+### Stack
+
+`Linux / Kali` `Bash` `Python` `Docker` `Git / GitHub CLI` `Django` `AWS Free Tier` `Vim`
+
+### Projects
+
+- **DevOps-Journey** — hands-on roadmap with real containerised projects
+- **HydroAlert** — mobile water outage notification system (Flutter / AWS)
+- **CommunityFix** — community fault reporting web app (Django)
+- **EdBridge** — USSD learning delivery for rural students (hackathon)
+
+### Interests
+
+`DevOps` `Cybersecurity / CTF` `Open source` `Community outreach`
+
+---
+
+📍 Kimberley, Northern Cape, South Africa | Open to DevOps opportunities
