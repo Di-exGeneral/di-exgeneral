@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Tlotliso Ledwaba
+## Tlotliso Ledwaba
 
 ICT Diploma student at Sol Plaatje University, Kimberley. Building towards a career in DevOps engineering.
 
@@ -8,13 +8,13 @@ ICT Diploma student at Sol Plaatje University, Kimberley. Building towards a car
 
 ### Currently working on
 
-A structured 9-phase DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Kubernetes, AWS, and monitoring. All progress is public.
+A structured DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Kubernetes, AWS, and monitoring. All progress is public.
 
-### Stack
+### Stack 🛠️
 
-`Linux / Kali` `Bash` `Python` `Docker` `Git / GitHub CLI` `Django` `AWS Free Tier` `Vim`
+`Linux / Kali` `Bash` `Python` `Docker` `Git / GitHub CLI` `Django` `AWS Services` `Vim`
 
-### Projects
+### Projects 🖥️
 
 - **DevOps-Journey** — hands-on roadmap with real containerised projects
 - **HydroAlert** — mobile water outage notification system (Flutter / AWS)
