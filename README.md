@@ -2,7 +2,7 @@
 
 ## Tlotliso Ledwaba
 
-ICT Diploma student at Sol Plaatje University, Kimberley. Building towards a career in DevOps engineering.
+ICT Diploma student at Sol Plaatje University, Kimberley, NC. Building towards a career in DevOps engineering.
 
 ---
 
@@ -23,7 +23,7 @@ A structured DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Ku
 
 ### Interests
 
-`DevOps` `Cybersecurity / CTF` `Open source` `Community outreach`
+`DevOps` `Cybersecurity / CTF` `Open source` `Community outreach` `Networking`
 
 ---
 
