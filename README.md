@@ -16,10 +16,10 @@ A structured DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Ku
 
 ### Projects 🖥️
 
-- **DevOps-Journey** — hands-on roadmap with real containerised projects
-- **HydroAlert** — mobile water outage notification system (Flutter / AWS)
-- **CommunityFix** — community fault reporting web app (Django)
-- **EdBridge** — USSD learning delivery for rural students (hackathon)
+- **DevOps-Journey** - hands-on roadmap with real containerised projects
+- **HydroAlert** - mobile water outage notification system (Flutter / AWS)
+- **CommunityFix** - community fault reporting web app (Django)
+- **EdBridge** - USSD learning delivery for rural students (hackathon)
 
 ### Interests
 
