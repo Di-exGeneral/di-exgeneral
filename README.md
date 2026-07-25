@@ -12,18 +12,18 @@ A structured DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Ku
 
 ### Stack 🛠️
 
-`Linux / Kali` `Bash` `Python` `Docker` `Git / GitHub CLI` `Django` `AWS Services` `Vim`
+`Linux` `Java` `Dart / Flutter` `Bash` `Python` `Docker` `Git / GitHub CLI` `Django` `AWS Services` `Vim` `CI/CD`
 
 ### Projects 🖥️
 
 - **DevOps-Journey** - hands-on roadmap with real containerised projects
 - **HydroAlert** - mobile water outage notification system (Flutter / AWS)
 - **CommunityFix** - community fault reporting web app (Django)
-- **EdBridge** - USSD learning delivery for rural students (hackathon)
+- **EdBridge** - USSD learning delivery for rural students (Java)
 
 ### Interests
 
-`DevOps` `Cybersecurity / CTF` `Open source` `Community outreach` `Networking`
+`DevOps` `Cybersecurity` `Open source` `Community outreach` `Networking`
 
 ---
 
