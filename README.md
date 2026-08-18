@@ -68,3 +68,6 @@ A structured DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Ku
 ---
 
 📍 Kimberley, Northern Cape, South Africa | Open to DevOps opportunities
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Di-exGeneral)
