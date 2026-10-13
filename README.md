@@ -65,10 +65,12 @@ Competing in CTFs with a focus on forensics, steganography, and web exploitation
 </div>
 
 ---
-
+<!--
 <div align="center">
 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Di-exGeneral)
 
 </div>
+-->
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Di-exGeneral)
