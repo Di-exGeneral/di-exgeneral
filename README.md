@@ -49,8 +49,8 @@ Competing in CTFs with a focus on forensics, steganography, and web exploitation
   
 [![GitHub Issues](https://img.shields.io/badge/Contact%20via%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Di-exGeneral/Contact-The-RndmGeek/issues/new)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlotliso-ledwaba-3201ab309/)
-[![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1507908398933344299)
-[![medium](https://img.shields.io/badge/Medium-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rndm.Geek)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1507908398933344299)
+[![medium](https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rndm.Geek)
 <!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KnerdyGeek)-->
 
 
