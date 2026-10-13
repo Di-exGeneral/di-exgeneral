@@ -1,73 +1,74 @@
+
+
+<a href="https://github.com/Di-exGeneral">
+<img align='middle' src="https://stats.pphat.top/stats?username=Di-exGeneral&avatar_mode=radar&theme=prussian&data_border_style=frame" style="width:100%"/>
+</a>
+
+
+
+
 ## Hi there 👋
 
-## Tlotliso Ledwaba
+# Tlotliso Ledwaba
 
-ICT Diploma student at Sol Plaatje University, Kimberley, NC. Building towards a career in DevOps engineering.
+ICT Diploma student at Sol Plaatje University, Kimberley. Specialising in digital forensics and offensive security - CTFs, pentesting, and security research.
 
 ---
 
 ### Currently working on
 
-A structured DevOps roadmap covering Git, Linux, Bash, Python, Docker, CI/CD, Kubernetes, AWS, and monitoring. All progress is public.
+Competing in CTFs with a focus on forensics, steganography, and web exploitation. Sharpening investigative skills across memory forensics, network analysis, and malware triage.
 
-### Stack 🛠️
+### Skills
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+**Forensics**
+`Memory forensics` `Disk imaging` `Steganography` `Network forensics` 
 
-###
+**Offensive security**
+`Web exploitation` `SQLi` `SSTI` `IDOR` `SSRF` `XSS` `Command injection` `Session/Token forgery`
 
-### Projects 🖥️
+**Tools**
+`Kali Linux` `Burp Suite` `Nmap` `Wireshark` `Zsteg` `Steghide` `Git`
 
-- **DevOps-Journey** - hands-on roadmap with real containerised projects
-- **HydroAlert** - mobile water outage notification system (Flutter / AWS)
-- **CommunityFix** - community fault reporting web app (Django)
-- **EdBridge** - USSD learning delivery for rural students (Java)
+### CTF highlights
+
+- **ITWeb Security Summit 2026:** red team CTF mentored by Telspace Africa, chaining XSS, SQLi, SSTI, IDOR and SSRF to capture flags
+- **SANReN Cyber Security Challenge:** covered reverse engineering, steganography, forensics, Android APK analysis, web exploitation and network automation
+- **MWR CyberSec Challenge:** black-box web app pentest with a full professional report
+- **TryHackMe / HTB / CyberEDU:** multiple rooms and challenges across web, forensics, and binary exploitation
 
 ### Interests
 
-`DevOps` `Cybersecurity` `Open source` `Community outreach` `Networking`
+`Digital forensics` `CTF competitions` `Penetration testing` `Open source` `Community outreach`
 
 ---
 
-📍 Kimberley, Northern Cape, South Africa | Open to DevOps opportunities
+## Connect With Me
+
+<div align="center">
+  
+[![GitHub Issues](https://img.shields.io/badge/Contact%20via%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Di-exGeneral/Contact-The-RndmGeek/issues/new)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlotliso-ledwaba-3201ab309/)
+[![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1507908398933344299)
+[![medium](https://img.shields.io/badge/Medium-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rndm.Geek)
+<!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KnerdyGeek)-->
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Di-exGeneral)
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=Di-exGeneral&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Di-exGeneral)
+
+</div>
+
