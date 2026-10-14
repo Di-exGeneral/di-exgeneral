@@ -5,9 +5,8 @@
 </a>
 
 
-
-
-## Hi there 👋
+ 
+# Hi there
 
 # Tlotliso Ledwaba
 
@@ -66,11 +65,19 @@ Competing in CTFs with a focus on forensics, steganography, and web exploitation
 
 ---
 
+## Daily commitment
+
+<img align='middle' src="https://stats.pphat.top/graph?username=Di-exGeneral&theme=ocean&size=large&show_background=true&animate=glow"/>
+
+<br>
+
+
 <div align="center">
 
-  ![Profile views](https://camo.githubusercontent.com/7f5564c7622550600c30bbcf4915ee8071c040b3d02daaeca0aeb015fa7bcb1e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d44692d657847656e6572616c)
+  ![](https://stats.pphat.top/badges?username=Di-exGeneral&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,ocean,ocean,ocean,ocean,ocean&padding=10&size=medium)
 
 </div>
 
 
-<!--![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Di-exGeneral) -->
+
+
